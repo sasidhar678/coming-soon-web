@@ -1,7 +1,7 @@
 ### DEMO
 > https://www.balasasidhar.com/coming-soon-web/
 
-### STEPS TO RUN
+### Development
 1. Clone the repo
 ```
 git clone https://github.com/sasidhar678/coming-soon-web.git
@@ -29,6 +29,16 @@ npm start
 (or)
 ```
 yarn start
+```
+
+### Production
+1. Run the following command
+```
+npm build
+```
+(or)
+```
+yarn build
 ```
 
 #### SOURCE
